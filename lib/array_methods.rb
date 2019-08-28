@@ -4,7 +4,7 @@ def find_element_index(array, value_to_find)
 array = [1,2,3,4]
 i = 0
 while i < array.length do |index|
-  p index
+  puts index
 end
 find_element_index([1,2,3,4],0)
 end
