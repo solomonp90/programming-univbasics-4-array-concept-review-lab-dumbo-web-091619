@@ -4,7 +4,7 @@ scale = [2,3,4,5]
 scale.index(value_to_find)
 #scale_2.index(value_to_find);
 end
-find_element_index([2,3,4,5],1)
+find_element_index([2,3,4,5],value_to_find)
 
 
 
