@@ -2,7 +2,7 @@ def find_element_index(array,value_to_find)
   array = [1,2,3,4]
 length = 1
 
-length.times do |index|
+array.each do |index|
   puts array[index]
 end
 
