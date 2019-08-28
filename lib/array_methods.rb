@@ -3,7 +3,7 @@ def find_element_index(array,value_to_find)
 length = 1
 
 length.times do |index|
-  print array[index]
+  puts array[index]
 end
 
 
