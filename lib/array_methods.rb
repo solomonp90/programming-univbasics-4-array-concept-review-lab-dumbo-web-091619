@@ -5,7 +5,7 @@ array.index(2);
 #scale2.index(value_to_find);
 end
 find_element_index([2,3,4,5],3)
-array.index(2);
+
 
 
 
