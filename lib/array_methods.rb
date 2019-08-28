@@ -4,9 +4,9 @@ def find_element_index(array,value_to_find)
 
 
 scale2.index(4)
-scale.index(2);
+scale.index(0);
 end
-# 
+#
 # scale = [2,3,4,5]
 # scale2 = [6,5,4,3]
 # hill = [1,2,3,4,5,4,3,2,1]
