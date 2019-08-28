@@ -1,6 +1,6 @@
 def find_element_index(array,value_to_find)
  array = [2,3,4,5]
-#value_to_find = scale.index(0)
+value_to_find = 2
 array.index(0);
 
 
