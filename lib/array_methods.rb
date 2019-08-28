@@ -1,6 +1,6 @@
 def find_element_index(array,value_to_find)
  scale = [2,3,4,5]
- value_to_find = 2
+ value_to_find = 3
  # scale2 = [6,5,4,3]
  # hill = [1,2,3,4,5,4,3,2,1]
  # valley = [5,4,3,2,1,0,1,2,3,4,5]
