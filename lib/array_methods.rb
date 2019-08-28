@@ -3,7 +3,7 @@ def find_element_index(array, value_to_find)
 array = array.length
 value_to_find = 2
 i = 0
-while i==2 do |variable|
+while i
 
 end
 
