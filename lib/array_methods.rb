@@ -6,7 +6,7 @@ length.times do |index|
   puts array[index]
 end
 
-end
+
 
 
 
