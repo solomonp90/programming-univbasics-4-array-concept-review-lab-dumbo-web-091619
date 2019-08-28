@@ -4,7 +4,7 @@ def find_element_index(array,value_to_find)
 #
 #
 #
- scale.index('2');
+ scale.index();
 end
 #
 # scale = [2,3,4,5]
