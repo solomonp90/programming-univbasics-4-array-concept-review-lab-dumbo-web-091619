@@ -12,7 +12,7 @@ scale.index(0);
 #  hill.index(value_to_find);
 # valley.index(value_to_find);
 end
-find_element_index([2,3,4,5],2)
+find_element_index([2,3,4,5],0)
 
 
 # scale = [2,3,4,5]
