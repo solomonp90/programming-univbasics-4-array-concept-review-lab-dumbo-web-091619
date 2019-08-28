@@ -8,8 +8,8 @@ def find_element_index(array,value_to_find)
  scale.index(2);
  scale2.index(4);
  hill.index(5);
- scale.index(6);
- scale.index();
+valley.index(6);
+ 
 end
 #
 scale = [2,3,4,5]
