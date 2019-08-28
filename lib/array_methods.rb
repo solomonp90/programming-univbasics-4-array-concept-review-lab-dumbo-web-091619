@@ -1,7 +1,7 @@
 def find_element_index(array,value_to_find)
- scale = [2,3,4,5]
+ valley = [5,4,3,2,1,0,1,2,3,4,5]
 value_to_find = scale.index(0)
-scale.index(0);
+valley.index(0);
 
 
 #scale2.index(value_to_find);
