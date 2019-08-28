@@ -7,7 +7,7 @@ def find_element_index(array,value_to_find)
 
  scale.index(2);
  scale2.index(4);
- scale.index(5);
+ hill.index(5);
  scale.index(6);
  scale.index();
 end
